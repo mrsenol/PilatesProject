@@ -1,0 +1,8 @@
+source_file,source_sheet,run_rows,scope,sha256
+reformer_expanded_benchmark_detailed_exports_60s.xlsx,master_summary,180,90 expanded instances; CP-Interval and MIP detailed solutions at 60 s,24e25cd0ec5a8d4665a315c6b7cc121462033085f4a1fe9b71b64252223c7b7f
+factor_separated_benchmark_results_60s_w1_v2_summary.xlsx,raw_results,270,135 factor-separated instances; CP and MIP at 60 s,3c75367975351527f323592de992b6804fcd4728ab5bfed044338cda935316c7
+time_limit_benchmark_w1_summary.xlsx,raw_results,540,90 expanded instances; CP and MIP time-limit study at 60/300/600 s,c3b216dec7267a4fa9636af16f4383deca36e9ab700daf4a47800cc4df9f0a6f
+time_limit_benchmark_extra_large_60s_w1.xlsx,raw_results,60,30 extra-large instances; CP and MIP at 60 s,26754de32a1cb0d73bff4b7d664915ff1e258cd66bc35a7aefa06e98ab6eff8f
+time_limit_benchmark_extra_large_300_600s_w1.xlsx,raw_results,120,30 extra-large instances; CP and MIP at 300/600 s,01e9ce3a3f77e99a9f1b5401396c1e84f4d98c9a639b18df8fc0cb5bf720aebf
+cp_repeats_original_300_600_w1.xlsx,raw_runs,900,"CP repeated runs: 90 expanded instances, 5 repeats at 300/600 s",b63b7f3abe1ad58ef00bec005c423bfacb82b6b27a973676255fe49ee4f23c12
+cp_repeats_extra_large_60_300_600_w1.xlsx,raw_runs,450,"CP repeated runs: 30 extra-large instances, 5 repeats at 60/300/600 s",07b5a90e7f4e0492998b83932856be95b9b93f65ce4b309c32cfe415539ef626
